@@ -1,0 +1,18 @@
+{
+  "header": {
+    "pack_id": "6989C411-4355-4756-9163-51C1DF5EF677",
+    "name": "§1泰拉瑞亚音效包",
+    "packs_version": "0.0.1",
+    "description":"§2这是个音效包能让你在MCPE中听到泰拉瑞亚的部分音效
+未经作者允许禁止转载！
+ "resourcePack.vanilla.music.description",
+    "modules": [
+      {
+        "description": "resourcePack.vanilla.music.description",
+        "version": "0.0.1",
+        "uuid": "FAF77F7A-8B3B-4FE7-9A14-08D80CC7EAD0",
+        "type": "resources"
+      }
+    ]
+  }
+}
