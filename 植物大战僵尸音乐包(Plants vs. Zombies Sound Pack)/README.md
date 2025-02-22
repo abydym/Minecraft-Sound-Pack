@@ -6,7 +6,7 @@
 
 *也感谢魔灵工作室室长 `@创造者MC` 曾经的诚挚邀请，魔灵工作室为Minecraft社区贡献了大批优秀的作品，欢迎大家下载游玩！*
 
-> 支持版本:Minecraft PE Alpha 0.17.0.2 -->Minecraft BE 某一未知版本(Beta 1.21亲测不行💥🙈)
+> 支持版本:Minecraft PE Alpha 0.17.0.2 -->Minecraft BE 某一未知版本(Beta 1.21会出现BGM播放比较乱的情况)
 > 
 ### 欢迎各位大佬对此音乐包提供宝贵的建议！
 
